@@ -1,0 +1,3 @@
+Enter coordinates: 
+Perimetr: 
+19.23408

@@ -1,0 +1,5 @@
+Enter rows and columns:
+Enter data:
+2 2 2 
+-1 -1 -1 
+1 1 1 

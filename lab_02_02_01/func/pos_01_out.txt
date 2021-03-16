@@ -1,0 +1,4 @@
+Enter n:
+Enter data:
+Result:
+-2.500000

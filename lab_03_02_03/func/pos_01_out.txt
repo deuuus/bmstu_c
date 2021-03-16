@@ -1,0 +1,5 @@
+Enter rows and columns:
+Enter data:
+4 -25 6 
+71 8 9 
+10 20 30 

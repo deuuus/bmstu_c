@@ -1,0 +1,3 @@
+Enter coordinates: 
+zero - in, one - on the border, two - outside 
+2

@@ -1,0 +1,1 @@
+<pos_011_in.txt >out.txt

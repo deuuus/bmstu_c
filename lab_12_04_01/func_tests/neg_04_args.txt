@@ -1,0 +1,1 @@
+shared/test_04.txt out.txt f

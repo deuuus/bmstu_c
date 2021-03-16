@@ -1,0 +1,3 @@
+Enter n:
+Enter data:
+45 

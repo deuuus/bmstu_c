@@ -1,0 +1,6 @@
+A title
+A name
+1000
+B title
+B name
+1000

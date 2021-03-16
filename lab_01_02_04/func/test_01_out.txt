@@ -1,0 +1,3 @@
+Enter seconds: 
+Result:
+18 12 14

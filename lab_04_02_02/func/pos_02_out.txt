@@ -1,0 +1,3 @@
+Result: ONE no
+Result: TWO yes
+Result: THREE no
